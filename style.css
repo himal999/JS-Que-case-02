@@ -49,3 +49,23 @@ div{
     top: 130px;
 }
 
+#one{
+   background-color: coral ;
+}
+
+#two{
+    background-color: pink;
+}
+#three{
+    background-color: red;
+}
+
+#four{
+    background-color: green;
+}
+#five{
+    background-color: blue;
+}
+#six{
+    background-color: yellow;
+}
